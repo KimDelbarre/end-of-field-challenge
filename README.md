@@ -2,8 +2,8 @@
 <h2>@BeCode</h2>
 
 
-<p>Simple exercise</p>
-<a href="https://simple-interface03.netlify.app/">Interface 03</a>
+<p>Simple exercise >
+<a href="https://simple-interface03.netlify.app/">Interface 03</a></p>
 
-<p>Complex exercise</p>
-<a href="#">Interface 10</a>
+<p>Complex exercise >
+<a href="#">Interface 10</a></p>
